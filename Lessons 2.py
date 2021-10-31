@@ -1,2 +1,2 @@
 print (dir(__builtins__))
-#Первый комментарий
+#Firts new komment
