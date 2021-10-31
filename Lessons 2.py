@@ -1,5 +1,2 @@
- #Первый комментарий
-
-
-
-print(dir(__builtins__))
+print (dir(__builtins__))
+#Первый комментарий
