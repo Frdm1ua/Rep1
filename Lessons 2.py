@@ -1,1 +1,1 @@
-print("DNIPRO")
+print("DNIPRO") #Первый комментарий
