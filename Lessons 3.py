@@ -1,4 +1,4 @@
-a = input("456:")
+a = input("")
 b = ''
 for i in a:
     b = i + b
