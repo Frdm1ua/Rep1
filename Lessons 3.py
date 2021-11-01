@@ -1,6 +1,9 @@
-a = input("")
-b = ''
-for i in a:
-    b = i + b
-print(b)
+n1 = int(input())
+n2 = 0
+while n1 > 0:
+    digit = n1 % 10
+    n1 = n1 // 10
+    n2 = n2 * 10 + digit
+    print (n2)
+
 #finish
