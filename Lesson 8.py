@@ -1,4 +1,4 @@
-import rando
+import random
 height = int(input("Введите рост Пети: "))
 a = [random.randint(150, 200) for i in list(range(10))]
 a.sort(reverse=True)
