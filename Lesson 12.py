@@ -1,4 +1,3 @@
-import math
 def square(a):
     p = 4 * a
     s = a * 2
