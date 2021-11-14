@@ -8,7 +8,7 @@ def arithmetic(a, b, c):
     elif c == '/':
         print(a / b)
     else:
-        return ("Незвестная операция")
+        print("Незвестная операция")
 
 
 a = int(input('a: '))
